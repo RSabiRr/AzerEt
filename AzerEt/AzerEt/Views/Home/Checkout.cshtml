@@ -1,0 +1,298 @@
+﻿
+@model VmHome
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <link rel="icon" href="~/assets/img/logoo.jpeg.png"
+          type="image/x-icon">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>AzerƏt</title>
+    <!-- Bootstrap 5 CSS -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
+
+
+	<!-- Demo CSS (No need to include it into your project) -->
+	<link rel="stylesheet" href="~/css/demo.css">
+    <script type="text/javascript" src="https://js.api.here.com/v3/3.1/mapsjs-core.js"></script>
+    <script type="text/javascript" src="https://js.api.here.com/v3/3.1/mapsjs-service.js"></script>
+    <script type="text/javascript" src="https://js.api.here.com/v3/3.1/mapsjs-mapevents.js"></script>
+    <script type="text/javascript" charset="utf-8" src="https://js.api.here.com/v3/3.1/mapsjs-ui.js"></script>
+    <link rel="stylesheet" type="text/css" href="https://js.api.here.com/v3/3.1/mapsjs-ui.css" />
+  </head>
+<body style="background: url(/assets/img/hero-bg.jpg) top center;">
+
+
+    <main style="margin-top:50px; margin-bottom: 50px;">
+     <!-- DEMO HTML -->
+     <div class="container">
+
+
+  <div class="row">
+    <div style="margin-top: 19px;" class="col-md-4 order-md-2 mb-4">
+      <h4 class="d-flex justify-content-between align-items-center mb-3">
+        <span class="text-muted">Əlavə olunanlar:</span>
+      </h4>
+      <ul class="list-group mb-3">
+       
+      
+          @foreach (var item in Model.Wishlists)
+         {
+                   <li class="list-group-item d-flex justify-content-between">
+
+                     <span>@item.Menu.Name</span>
+                    <strong>@item.Menu.Price ₼</strong>
+             </li>
+         }
+
+                        <li class="list-group-item d-flex justify-content-between">
+
+                            <span>Ümumi (AZN)</span>
+                            <strong>@Model.Total ₼</strong>
+                        </li>
+        
+      </ul>
+
+       @* <div style="width: 310px; height: 300px" id="map"></div> *@
+
+    </div>
+
+    <div class="col-md-8 order-md-1">
+                    <form class="needs-validation" asp-action="Checkout" asp-controller="home" method="post" >
+        <div class="row">
+          <div class="col-md-6 mb-3">
+            <label for="firstName">Ad</label>
+            <input  disabled  type="text" class="form-control" placeholder="" value="@Model.CustomUser.Name" required>
+            <div class="invalid-feedback">
+              Valid first name is required.
+            </div>
+          </div>
+          <div class="col-md-6 mb-3">
+            <label for="lastName">Soyad</label>
+                                <input disabled type="text" class="form-control" placeholder="" value="@Model.CustomUser.Surname" required>
+            <div class="invalid-feedback">
+              Valid last name is required.
+            </div>
+          </div>
+        </div>
+
+                        <div class="row">
+                            <div class="col-md-6 mb-3">
+                                <label for="firstName">Qeydiyyat nömrəsi</label>
+                                <input disabled type="text" class="form-control"  placeholder="" value="@Model.CustomUser.Phone " required>
+                                <div class="invalid-feedback">
+                                    Valid first name is required.
+                                </div>
+                            </div>
+                            <div class="col-md-6 mb-3">
+                                <label for="lastName">Əlaqə nömrəsi</label>
+                                <input asp-for="@Model.Checkout.ContactPhone"  type="number" class="form-control"  placeholder="" value="" required>
+                                <div class="invalid-feedback">
+                                    Valid last name is required.
+                                </div>
+                            </div>
+                        </div>
+                        <div>
+                            <input hidden asp-for="@Model.Checkout.UserId" value="@Model.CustomUser.Id" />
+                        </div>
+
+        <div class="mb-3">
+          <label for="email">Email </label>
+                            <input disabled type="email" class="form-control"  value="@Model.CustomUser.Email" placeholder="you@example.com">
+          <div class="invalid-feedback">
+            Please enter a valid email address for shipping updates.
+          </div>
+        </div>
+
+        <div class="mb-3">
+          <label for="address">Ünvan</label>
+          <input asp-for="@Model.Checkout.Adress" type="text" class="form-control"  placeholder="Məsələn:Yeni yasamal 2, blok 10, mənzil 190" required>
+          <div class="invalid-feedback">
+            Please enter your shipping address.
+          </div>
+        </div>
+
+        <div class="mb-3">
+          <label for="address2">Əlavə məlumat <span class="text-muted">(Könüllü)</span></label>
+          <input asp-for="@Model.Checkout.Information"  type="text" class="form-control"  placeholder="" > 
+        </div>
+
+        <hr class="mb-4">
+      
+ 
+
+        <h4 class="mb-3">Ödəniş</h4>
+
+        <div id="box" class="d-block my-3">
+          <div class="custom-control custom-radio">
+             <input asp-for="@Model.Checkout.Iscart" id="credit" value="True"  onchange="check();" type="radio" class="custom-control-input" checked required>
+            <label class="custom-control-label" for="credit">Kredit karti</label>
+          </div>
+     
+          <div class="custom-control custom-radio">
+                                <input asp-for="@Model.Checkout.Iscart" value="False" id="paypal" onchange="uncheck();" type="radio" class="custom-control-input" required>
+            <label class="custom-control-label" for="paypal">Nəğd</label>
+          </div>
+        </div>
+        <div id="cartinfo">
+                            <div id="carts" class="row">
+                                <div class="col-md-6 mb-3">
+                                    <label for="cc-name">Name on card</label>
+                                    <input type="text" class="form-control" id="cc-name" placeholder="" >
+                                    <small class="text-muted">Full name as displayed on card</small>
+                                    <div class="invalid-feedback">
+                                        Name on card is required
+                                    </div>
+                                </div>
+                                <div class="col-md-6 mb-3">
+                                    <label for="cc-number">Credit card number</label>
+                                    <input type="text" class="form-control" id="cc-number" placeholder="" >
+                                    <div class="invalid-feedback">
+                                        Credit card number is required
+                                    </div>
+                                </div>
+                            </div>
+                            <div class="row">
+                                <div class="col-md-3 mb-3">
+                                    <label for="cc-expiration">Expiration</label>
+                                    <input type="text" class="form-control" id="cc-expiration" placeholder="" >
+                                    <div class="invalid-feedback">
+                                        Expiration date required
+                                    </div>
+                                </div>
+                                <div class="col-md-3 mb-3">
+                                    <label for="cc-cvv">CVV</label>
+                                    <input type="text" class="form-control" id="cc-cvv" placeholder="" >
+                                    <div class="invalid-feedback">
+                                        Security code required
+                                    </div>
+                                </div>
+                            </div>
+        </div>
+       
+        <hr class="mb-4">
+       <button style="background: #cda45e; margin-bottom: 15px;" class="btn  btn-lg btn-block" type="submit">Təsdiqlə</button>
+      </form>
+    </div>
+  </div>
+
+</div>
+     <!-- End Demo HTML -->
+     
+ </main>
+ 
+
+        <div id="results">
+    </div>
+    
+  
+<!-- Bootstrap 5 JavaScript Bundle with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-U1DAWAznBHeqEIlVSCgzq+c9gqGAJn5c/t99JyeKa9xxaYpSvHU5awsuZVVFIhvj" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="~/assets/js/cart.js"></script>
+
+    <script>
+        function check() {
+
+            document.getElementById("cartinfo").style.display = "block";
+
+        }
+
+        function uncheck() {
+            document.getElementById("cartinfo").style.display = "none";
+
+        }
+
+
+        // var platform = new H.service.Platform({
+        //     'apikey': 'YU4tTE228LN5IbivWdFmyrlCMyum6sK41m2TfI61heM'
+        // });
+
+        // // Obtain the default map types from the platform object:
+        // const defaultLayers = platform.createDefaultLayers();
+
+
+        // var latitude, longitude = "";
+
+
+        // if (navigator.geolocation) {
+        //     navigator.geolocation.getCurrentPosition(onSucces, onError);
+        // } else {
+        //     alert("islemirr...!");
+        // }
+
+       
+
+        // function onSucces(positsion) {
+        //     latitude = positsion.coords.latitude;
+        //     longitude = positsion.coords.longitude;
+           
+        //     const map = new H.Map(
+        //         document.getElementById("map"),
+        //         // Center the map on Dublin, Republic of Ireland, with the zoom level of 10:
+        //         defaultLayers.vector.normal.map, {
+        //         zoom: 11,
+        //         center: {
+        //             lat: latitude,
+        //             lng: longitude
+        //         }
+        //     });
+
+        //     const ui = H.ui.UI.createDefault(map, defaultLayers);
+
+        //     const behavior = new H.mapevents.Behavior(new H.mapevents.MapEvents(map));
+        //     const spireCoordinates = {
+        //         lat: latitude,
+        //         lng: longitude
+        //     };
+
+
+
+        //     const mapSettingsControl = ui.getControl('mapsettings');
+        //     mapSettingsControl.setAlignment('top-left');
+        //     window.addEventListener('resize', () => map.getViewPort().resize());
+
+
+
+        //     const api_key = "d23b51e0a67c404180c4884414e57a72";
+        //     const url = `https://api.opencagedata.com/geocode/v1/json?q=${latitude}+${longitude}&key=${api_key}`;
+
+        //     fetch(url)
+        //         .then(response => response.json())
+        //         .then(result => {
+        //             let details = result.results[0].components;
+        //             let { country, postcode, road } = details;
+        //             let forma = result.results[0];
+        //             document.getElementById("address").value = road;
+        //             const content = '<div>' +
+        //                 '<h3>Siz oldugunuz Yer</h3>' +
+        //                 `<p>${road}</p>` +
+        //                 '</div>';
+        //             const infoBubble = new H.ui.InfoBubble(spireCoordinates, {
+        //                 content
+        //             });
+        //             ui.addBubble(infoBubble);
+
+        //         });
+        // }
+
+
+
+        // function onError(error) {
+        //     if (error.code == 1) {
+        //         alert("icazeniz redd edildi");
+        //     }
+        //     else if (error.code == 2) {
+        //         alert("yer tapilmadi");
+        //     } else {
+        //         alert("xeta bas verdi!");
+        //     }
+        // }
+</script> 
+
+</body>
+</html>

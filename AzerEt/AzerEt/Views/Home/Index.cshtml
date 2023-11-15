@@ -1,0 +1,451 @@
+﻿@model VmHome
+@inject IHttpContextAccessor _httpContext
+@inject UserManager<IdentityUser> _userManager
+@inject SignInManager<IdentityUser> _signInManager
+@if (@TempData["Message"] != null)
+{
+    <body onload="alert('Mesajınız uğurla göndərildi!');">
+
+    </body>
+}
+
+<style>
+    .menu .menu-img {
+        width: 70px;
+        height: 70px;
+        border-radius: 50%;
+        float: left;
+        border: 5px solid rgba(255, 255, 255, 0.2);
+    }
+    .btn-add{
+        position: absolute;
+        right: 15px;
+        top: 50px;
+        background: green;
+        width: 40px;
+        border-radius: 55px;
+        text-align: center;
+        cursor: pointer
+    }
+
+    .btn-del {
+        position: absolute;
+        right: 15px;
+        top: 50px;
+        background: #c71525;
+        width: 40px;
+        border-radius: 55px;
+        text-align: center;
+        cursor: pointer
+    }
+
+
+    @@media only screen and (max-width: 720px) {
+  .btn-add {
+            top: 80px;
+  }
+}
+
+    @@media only screen and (max-width: 720px) {
+        .ozelapk {
+           margin-top:10px!important;
+        }
+
+
+
+
+    @@media only screen and (max-width: 720px) {
+        .btn-del {
+            top: 80px;
+        }
+    }
+
+</style>
+
+<section id="hero" class="d-flex align-items-center">
+    <div class="container position-relative text-center text-lg-start" data-aos="zoom-in" data-aos-delay="100">
+        <div class="row">
+            <div class="col-lg-8">
+                <h1> <span>AzərƏt</span> Xoş gəlmisiniz</h1>
+                <h2>10 ildən artiq xidmətinizdə!</h2>
+
+                <div class="btns">
+                    <a href="#menu" class="btn-menu animated fadeInUp scrollto">Menyu</a>
+                    <a href="#contact" class="btn-book animated fadeInUp scrollto">Əlaqə</a>
+                    <a href="https://files.appsgeyser.com/Az%C9%99r%C6%8Ft_17740515.apk?utm_source=event_email&utm_medium=email&utm_campaign=download_your_app" class="btn-book animated fadeInUp scrollto ozelapk">Tətbiqi Yüklə (APK)</a>
+
+                </div>
+            </div>
+            <div class="col-lg-4 d-flex align-items-center justify-content-center position-relative" data-aos="zoom-in" data-aos-delay="200">
+                <a href="https://www.youtube.com/watch?v=7wbLUZhWRTc&ab_channel=N%C4%B0GHTSTE%C4%B0N class="glightbox play-btn"></a>
+            </div>
+
+        </div>
+    </div>
+</section><!-- End Hero -->
+
+<main id="main">
+
+    <!-- ======= About Section ======= -->
+    <section id="about" class="about">
+        <div class="container" data-aos="fade-up">
+
+            <div class="row">
+                <div class="col-lg-6 order-1 order-lg-2" data-aos="zoom-in" data-aos-delay="100">
+                    <div class="about-img">
+                        <img src="assets/img/azerkabab.jpeg" alt="">
+                    </div>
+                </div>
+                <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content">
+      
+                    <p>
+                     @Html.Raw(Model.Abouts.Title)
+                    </p>
+                </div>
+            </div>
+
+        </div>
+    </section><!-- End About Section -->
+    <!-- ======= Why Us Section ======= -->
+    <section id="why-us" class="why-us">
+        <div class="container" data-aos="fade-up">
+
+            <div class="section-title">
+                <h2>Nəyə görə</h2>
+                <p>Nəyə görə bizim Restoran</p>
+            </div>
+
+            <div class="row">
+                @{
+                    int c = 1;
+                }
+                @foreach (var item in Model.Whyus)
+                {
+                    <div class="col-lg-4">
+                        <div class="box" data-aos="zoom-in" data-aos-delay="100">
+                            <span>@c</span>
+                            <h4>@item.Uptitle</h4>
+                            <p>@item.Title</p>
+                        </div>
+                    </div>
+                    c++;
+                }
+         
+
+            
+
+            
+
+            </div>
+
+        </div>
+    </section><!-- End Why Us Section -->
+    <!-- ======= Menu Section ======= -->
+    <section id="menu" class="menu section-bg">
+        <div class="container" data-aos="fade-up">
+
+            <div class="section-title">
+                <h2>Menyu</h2>
+                <p>Dadlı Menyumuza baxın</p>
+            </div>
+
+            <div class="row" data-aos="fade-up" data-aos-delay="100">
+                <div class="col-lg-12 d-flex justify-content-center">
+                    <ul id="menu-flters">
+                        <li data-filter="*" class="filter-active">Hamısı</li>
+                        @foreach (var item in Model.Categories)
+                        {
+                            <li data-filter=".filter-@item.Name">@item.Name</li>
+
+                        }
+                       
+                    </ul>
+                </div>
+            </div>
+
+            <div class="row menu-container" data-aos="fade-up" data-aos-delay="200">
+              
+   
+               
+                @foreach (var item in Model.Menus )
+                {
+                    <div class="col-lg-6 menu-item filter-@item.Category.Name">
+                        <a href="~/UploadsImage/@item.Image" class="gallery-lightbox" data-gall="gallery-item">
+                            <img src="~/UploadsImage/@item.Image" class="menu-img" alt="">
+                        </a>
+
+                        <div class="menu-content">
+                            <a href ="~/UploadsImage/@item.Image" class="gallery-lightbox">@item.Name</a>
+
+                    <span>@item.Price₼</span>
+                        </div>
+
+                        <div class="menu-ingredients">
+                           @item.Title
+                        
+
+                        </div>
+                        @if (_signInManager.IsSignedIn(User))
+                        {
+                            <a id="classs" data-itemid="@item.Id" class="update-click  @(Model.Wishlists!=null && Model.Wishlists.Where(q=>q.UserId==@_userManager.GetUserId(User)).Any(c=>c.MenuId==item.Id)?"btn-del":"btn-add") ">
+                                <i   class="fas fa-plus"></i>
+                            </a>
+
+                        }
+
+                        else
+                        {
+                            <a id="classs" asp-action="login" asp-controller="account"  class="update-click  @(Model.Wishlists!=null && Model.Wishlists.Where(q=>q.UserId==@_userManager.GetUserId(User)).Any(c=>c.MenuId==item.Id)?"btn-del":"btn-add") "><i class="fas fa-plus"></i>  </a>
+
+                        }
+                        
+
+                        <div>
+                            <input hidden type="text" value="@_userManager.GetUserId(User)" class="form-control" id="txt" placeholder="user id" />
+                        </div>
+                    </div>
+                }
+              
+
+              
+
+            </div>
+
+        </div>
+    </section><!-- End Menu Section -->
+    <!-- ======= Specials Section ======= -->
+    <section id="specials" class="specials">
+        <div class="container" data-aos="fade-up">
+
+            <div class="section-title">
+                <h2>Xüsusi</h2>
+                <p>Xüsusi təamları dadın</p>
+            </div>
+
+            <div class="row" data-aos="fade-up" data-aos-delay="100">
+                <div class="col-lg-3">
+                    <ul class="nav nav-tabs flex-column">
+                        @{
+                            int i = 1;
+                        }
+                        @foreach (var item in Model.Specials)
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link @(i==1 ? "active show" : " " ) " data-bs-toggle="tab" href="#tab-@i">@item.Category</a>
+                            </li>
+                            i++;
+                        }
+                     
+                     
+             
+                    </ul>
+                </div>
+                <div class="col-lg-9 mt-4 mt-lg-0">
+                    <div class="tab-content">
+                        @{
+                            int a = 1;
+                        }
+                        @foreach (var item in Model.Specials)
+                        {
+
+                            <div class="tab-pane @(a==1 ? "active show" : " " ) " id="tab-@a">
+                                <div class="row">
+                                    <div class="col-lg-8 details order-2 order-lg-1">
+                                       @Html.Raw(item.Title)
+                                    </div>
+                                    <div class="col-lg-4 text-center order-1 order-lg-2">
+                                        <img src="~/UploadsSpecials/@item.Image" alt="" class="img-fluid">
+                                    </div>
+                                </div>
+                            </div>
+                            a++;
+
+                        }
+                    </div>
+                </div>
+            </div>
+
+        </div>
+    </section><!-- End Specials Section -->
+    <!-- ======= Gallery Section ======= -->
+    <section id="gallery" class="gallery">
+
+        <div class="container" data-aos="fade-up">
+            <div class="section-title">
+                <h2>Qalereya</h2>
+                <p>Bəzi görüntülər </p>
+            </div>
+        </div>
+
+        <div class="container-fluid" data-aos="fade-up" data-aos-delay="100">
+
+            <div class="row g-0">
+
+                @foreach (var item in Model.Galleries)
+                {
+                    <div class="col-lg-4 col-md-4">
+                        <div class="gallery-item">
+                            <a href="~/UploadsGallery/@item.Image" class="gallery-lightbox" data-gall="gallery-item">
+                                <img src="~/UploadsGallery/@item.Image" alt="" class="img-fluid">
+                            </a>
+                        </div>
+                    </div>
+                }
+                
+
+
+
+            </div>
+
+        </div>
+    </section><!-- End Gallery Section -->
+    <!-- ======= Chefs Section ======= -->
+    <section id="chefs" class="chefs">
+        <div class="container" data-aos="fade-up">
+
+            <div class="section-title">
+                <h2>Şeflər</h2>
+                <p>Peşəkar şeflər</p>
+            </div>
+
+            <div class="row">
+                @foreach (var item in Model.Cheifs)
+                {
+                    <div class="col-lg-4 col-md-6">
+                        <div class="member" data-aos="zoom-in" data-aos-delay="100">
+                            <img src="~/UploadsCheifs/@item.Image" class="img-fluid" alt="">
+                            <div class="member-info">
+                                <div class="member-info-content">
+                                    <h4>@item.Fullname</h4>
+                                    <span>@item.Position</span>
+                                </div>
+                                <div class="social">
+
+                                    <a href="@item.Facelink"><i class="bi bi-facebook"></i></a>
+                                    <a href="@item.Instalink"><i class="bi bi-instagram"></i></a>
+                                    <a href="@item.Linkedinlink"><i class="bi bi-linkedin"></i></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                }
+               
+
+
+            </div>
+
+        </div>
+    </section>
+    <!-- End Chefs Section -->
+    <!-- ======= Contact Section ======= -->
+    <section id="contact" class="contact">
+        <div class="container" data-aos="fade-up">
+
+            <div class="section-title">
+                <h2>Əlaqə</h2>
+                <p>Bizimlə Əlaqə</p>
+            </div>
+        </div>
+
+        <div data-aos="fade-up">
+            <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3038.101605315814!2d49.81528367516281!3d40.406599856257245!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x20018d44b4a15075%3A0xb713f007a66d68ac!2sAzer%20Kabab%20Evi!5e0!3m2!1sen!2saz!4v1697980420970!5m2!1sen!2saz" width="1500" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+        </div>
+
+        <div class="container" data-aos="fade-up">
+
+            <div class="row mt-5">
+
+                <div class="col-lg-4">
+                    <div class="info">
+                        <div class="address">
+                            <i class="bi bi-geo-alt"></i>
+                            <h4>Ünvan:</h4>
+                            <p>@Model.Setting.Location</p>
+                        </div>
+
+                        <div class="open-hours">
+                            <i class="bi bi-clock"></i>
+                            <h4>Işləmə saatı:</h4>
+                            <p>
+                                @Model.Setting.OpeninTime
+                               
+                            </p>
+                        </div>
+
+                        <div class="email">
+                            <i class="bi bi-envelope"></i>
+                            <h4>Email:</h4>
+                            <p>
+                                @Model.Setting.Email
+
+                            </p>
+                        </div>
+
+                        <div class="phone">
+                            <i class="bi bi-phone"></i>
+                            <h4>Telefon:</h4>
+                            <p>@Model.Setting.Phone</p>
+                        </div>
+
+                    </div>
+
+                </div>
+
+                <div class="col-lg-8 mt-5 mt-lg-0">
+                   @if (_httpContext.HttpContext.Session.GetString("Success") != null)
+                    {
+                        <div class="alert alert-success">
+                            @_httpContext.HttpContext.Session.GetString("Success")
+                        </div>
+
+                        _httpContext.HttpContext.Session.Remove("Success");
+                    }
+
+                    @if (_httpContext.HttpContext.Session.GetString("Error") != null)
+                    {
+                        <div class="alert alert-danger">
+                            @_httpContext.HttpContext.Session.GetString("Error")
+                        </div>
+
+                        _httpContext.HttpContext.Session.Remove("Error");
+                    } 
+                    <form asp-controller="home" asp-action="message"   class="php-email-formm" method="post">
+                        <div class="row">
+                            <div class="col-md-6 form-group">
+                                <input type="text" asp-for="@Model.Contacts.Name" class=" form-control" id="name" placeholder="Ad" required>
+
+                                @* <small class="form-text text-error" id="sub-error"></small> *@
+                            </div>
+                            <div class="col-md-6 form-group mt-3 mt-md-0">
+                                <input type="email" class="form-control" asp-for="@Model.Contacts.Email" id="email" placeholder="Email" required>
+
+                                @* <small class="form-text text-error" id="com-error"></small> *@
+                            </div>
+                        </div>
+                        <div class="form-group mt-3">
+                            <input type="text" class="form-control" asp-for="@Model.Contacts.Subject" id="subject" placeholder="Mövzu" required>
+                        </div>
+                        <div class="form-group mt-3">
+                            <textarea class="form-control" asp-for="@Model.Contacts.Destiraction" id="message" rows="8" placeholder="Mesaj" required></textarea>
+                        </div>
+
+
+                        <div class="my-3">
+                            <div class="loading">Loading</div> 
+                            <div class="error-message"></div>
+                            <div class="sent-message">Sizin mesajınız uğurla göndərildi.Təşəkkür edirik!</div>
+                        </div>
+                        <div class="text-center"><button type="submit">Təsdiqlə</button></div>
+                    </form>
+
+                </div>
+              
+            </div>
+
+        </div>
+    </section><!-- End Contact Section -->
+
+</main><!-- End #main -->
+
+
+ 

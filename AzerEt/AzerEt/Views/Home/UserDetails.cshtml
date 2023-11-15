@@ -1,0 +1,166 @@
+﻿@model VmHome
+@{
+    ViewData["Title"] = "UserDetails";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<section style="margin-top:80px" id="menu" class="menu section-bg">
+    <div class="container" data-aos="fade-up">
+
+        <div class="section-title">
+            <h2>Sifariş</h2>
+            <p class="privitp">Zəhmət olmasa sifariş təsdiq olunana kimi gözləyin.</p>
+        </div>
+
+
+        <div class="row" data-aos="fade-up" data-aos-delay="100">
+            <div class="col-lg-12 d-flex justify-content-center">
+                <ul id="menu-flters">
+                    <li data-filter=".filter-starters " >
+                        Gözlənilir-(<span style="    color: white;  font-size: 18px;">@Model.Checkouts.Where(m=>m.isTrue==false).Count()</span>)
+                    </li>
+                    <li data-filter=".filter-salads ">
+                        Təsdiqlənən-(<span style="    color: white;  font-size: 18px;">@Model.Checkouts.Where(m=>m.isTrue==true).Count()</span>)
+                    </li>
+                </ul>
+            </div>
+        </div>
+
+        <div class="row menu-container" data-aos="fade-up" data-aos-delay="200">
+
+            <div class="col-lg-6 menu-item filter-starters">
+
+                @{
+                    int q = 1;
+                    var count = Model.Checkouts.Where(u => u.isTrue == false).Count();
+                }
+                @if (count==0)
+                {
+                    <h3>
+                        Gözlənilən sifarişiniz yoxdur.
+                    </h3>
+                }
+                else
+                {
+                    <h3>Gözlənilir</h3>
+
+                    @foreach (var item2 in Model.Checkouts)
+                        {
+                            foreach (var item in Model.CheckWishlists.Where(x=>x.CheckoutId==item2.Id).Where(q=>q.Checkout.isTrue==false))
+                            {
+                   
+                    <table style="font-family:arial,sans-serif;border-collapse:collapse;width:100%">
+                        <tbody>
+                            <tr>
+                                <th style="border:1px solid #dddddd;text-align:left;padding:8px">#</th>
+                                <th style="border:1px solid #dddddd;text-align:left;padding:8px">Menu</th>
+                                <th style="border:1px solid #dddddd;text-align:left;padding:8px">Say</th>
+                                <th style="border:1px solid #dddddd;text-align:left;padding:8px">Set</th>
+                                @* <th style="border:1px solid #dddddd;text-align:left;padding:8px">Şəkil</th> *@
+
+
+                                <th style="border:1px solid #dddddd;text-align:left;padding:8px">Qiymət</th>
+                            </tr>
+                       
+                               
+                            <tr>
+                                <td style="border:1px solid #dddddd;text-align:left;padding:8px">@q</td>
+                                <td style="border:1px solid #dddddd;text-align:left;padding:8px">@item.Menu.Name</td>
+                                <td style="border:1px solid #dddddd;text-align:left;padding:8px">@item.Count</td>
+                                <td style="border:1px solid #dddddd;text-align:left;padding:8px">@item.Menu.Title</td>
+                              @*   <td style="border:1px solid #dddddd;text-align:left;padding:8px">
+                                    <img src="~/UploadsImage/@item.Menu.Image" alt="Alternate Text" style="max-width:60px; max-height:100px" />
+                                    </td> *@
+                                    <td style="border:1px solid #dddddd;text-align:left;padding:8px">@item.Menu.Price ₼</td>
+                                    <br />
+
+                            </tr>
+                           
+                        </tbody>
+                    </table>
+                        <p style="font-weight: bolder; margin-top: 10px;">Tarix:@item.Checkout.CreatedDate </p>
+                        q += 1;
+                    }
+                }
+                }
+              
+            </div>
+
+            <div class="col-lg-6 menu-item filter-salads">
+                @{
+                    int qw = 0;
+                    var flcount = Model.Checkouts.Where(e => e.isTrue == true).Count();
+                }
+                @if (flcount==0)
+                {
+                    <h3>
+                        Təsdiqlənən sifarişiniz yoxdur. 
+                    </h3>
+                }else
+                {
+                    <h3>Təsdiqlənən</h3>
+
+                    @foreach (var item2 in Model.Checkouts)
+                {
+
+
+                    foreach (var item in Model.CheckWishlists.Where(x => x.CheckoutId == item2.Id).Where(q => q.Checkout.isTrue == true))
+                    {
+                        
+                        <table style="font-family:arial,sans-serif;border-collapse:collapse;width:100%">
+                            <tbody>
+                                <tr>
+                                    <th style="border:1px solid #dddddd;text-align:left;padding:8px">#</th>
+                                    <th style="border:1px solid #dddddd;text-align:left;padding:8px">Menu</th>
+                                    <th style="border:1px solid #dddddd;text-align:left;padding:8px">Say</th>
+                                    <th style="border:1px solid #dddddd;text-align:left;padding:8px">Set</th>
+                                    @* <th style="border:1px solid #dddddd;text-align:left;padding:8px">Şəkil</th> *@
+
+
+                                    <th style="border:1px solid #dddddd;text-align:left;padding:8px">Qiymət</th>
+                                </tr>
+
+                                <tr>
+                                    <td style="border:1px solid #dddddd;text-align:left;padding:8px">@qw</td>
+                                    <td style="border:1px solid #dddddd;text-align:left;padding:8px">@item.Menu.Name</td>
+                                    <td style="border:1px solid #dddddd;text-align:left;padding:8px">@item.Count</td>
+                                    <td style="border:1px solid #dddddd;text-align:left;padding:8px">@item.Menu.Title</td>
+                               @*      <td style="border:1px solid #dddddd;text-align:left;padding:8px">
+                                        <img src="~/UploadsImage/@item.Menu.Image" alt="Alternate Text" style="max-width:60px; max-height:100px" />
+                                    </td> *@
+                                    <td style="border:1px solid #dddddd;text-align:left;padding:8px">@item.Menu.Price ₼</td>
+
+                                </tr>
+
+                            </tbody>
+                        </table>
+                        <p style="font-weight: bolder; margin-top: 10px;">Tarix:@item.Checkout.CreatedDate </p>
+                        qw++;
+                    }
+                }
+                }
+
+            </div>
+
+           
+
+        </div>
+
+    </div>
+</section>
+
+ <style>
+    @@media only screen and (max-width: 720px) {
+        .privitp {
+            font-size: 12px !important;
+        }
+    }
+ </style>
+<script>
+    window.setTimeout(
+
+        function () {
+            location.reload();      
+        },
+        10000);
+</script>

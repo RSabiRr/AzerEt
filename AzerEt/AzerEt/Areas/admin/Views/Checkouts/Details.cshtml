@@ -1,0 +1,173 @@
+﻿@model VmHome
+
+@{
+    ViewData["Title"] = "Details";
+    Layout = "~/Areas/admin/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Details</h1>
+
+<div>
+    <h4>Checkout</h4>
+    <hr />
+    <dl class="row">
+         <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Checkout.CustomUser.Name)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Checkout.CustomUser.Name)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Checkout.CustomUser.Surname)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Checkout.CustomUser.Surname)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Checkout.CustomUser.Email)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Checkout.CustomUser.Email)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Checkout.CustomUser.Phone)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Checkout.CustomUser.Phone)
+        </dd>
+        
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Checkout.CustomUser.Gender)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Checkout.CustomUser.Gender)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.Checkout.Adress)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.Checkout.Adress)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Checkout.Information)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Checkout.Information)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Checkout.ContactPhone)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Checkout.ContactPhone)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Checkout.Iscart)
+        </dt>
+        <dd class = "col-sm-10">
+            @if (Model.Checkout.Iscart == true)
+            {
+                <p>Cart</p>
+            }
+            else
+            {
+                <p>Cash</p>
+
+            }
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Checkout.TotalPrice)
+        </dt>
+        <dd class="col-sm-10  full-price">
+            @Html.DisplayFor(model => model.Checkout.TotalPrice) 
+        </dd>
+   
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.Checkout.CreatedDate)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.Checkout.CreatedDate)
+        </dd>
+    </dl>
+
+
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    Kategoriya 
+                </th>
+                <th>
+                    Menu 
+                </th>
+                <th>
+                    Count
+                </th>
+                <th>
+                    Title
+                </th>
+                <th>
+                     Price
+                </th>
+                <th>
+                    Image
+                </th>
+            </tr>
+        </thead>
+        <tbody>
+            
+            @foreach (var item in Model.CheckWishlists)
+            {
+
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Menu.Category.Name)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Menu.Name)
+                    </td>
+                    <td >
+                            @Html.DisplayFor(modelItem => item.Count)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Menu.Title)
+                    </td>
+                    <td >
+                        @Html.DisplayFor(modelItem => item.Menu.Price)
+                    </td>
+                    
+                    <td>
+                        <img src="~/UploadsImage/@item.Menu.Image" alt="Alternate Text" style="max-width:100px; max-height:100px" />
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+
+        
+    
+</div>
+@if (Model.Checkout.isTrue==false)
+{
+
+    <div>
+        <form asp-controller="Checkouts" asp-action="Edit" method="post">
+            <input type="hidden" asp-for="@Model.Checkout.Id" value="@Model.Checkout.Id" />
+            <input type="hidden" asp-for="@Model.Checkout.CustomUser.Email" value="@Model.Checkout.CustomUser.Email" />
+            <input type="submit" value="Tesdiqle" class="btn btn-success" /> |
+            <a class="btn btn-danger" asp-action="Index">Back to List</a>
+        </form>
+    </div>
+
+}
+else
+{
+    <a class="btn btn-danger" asp-action="Index2">Back to List</a>
+}
+
+
+
+
+
+
+

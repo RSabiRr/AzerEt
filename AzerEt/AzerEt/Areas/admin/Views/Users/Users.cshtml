@@ -1,0 +1,93 @@
+﻿@model VmUser
+@{
+    ViewData["Title"] = "Users";
+    Layout = "~/Areas/admin/Views/Shared/_Layout.cshtml";
+
+}
+ 
+                            <form asp-controller="Users" asp-action="Search" method="get">
+    <div style="margin-left: 10px;" class="header-search-wrapper search-wrapper-wide mt-3">
+                                <div class="row">
+                                    <div class="col-lg-4">
+                <label for="q" class="sr-only">Search</label>
+                <input type="search" class="form-control" aria-label="Search" name="searchData" placeholder="Name ...">
+                                    </div>
+            <div class="col-lg-4">
+                <input type="search" class="form-control" aria-label="Search" name="email" placeholder="Email ...">
+            </div>
+            <div class="col-lg-4">
+                <button style="background:red" class="btn " type="submit"><i class="fas fa-search" style="color: white;"></i></button>
+
+            </div>
+
+          
+            
+
+                                </div>
+                              
+
+                                </div><!-- End .header-search-wrapper -->
+                            </form>
+                          
+<div class="container">
+    <div class="row">
+        <div style="    margin-top: 25px;" class="col-lg-12 mb-3">
+            <a asp-asp-area="admin" asp-controller="users" asp-action="downloadtoexcel"><img src="~/assets/img/excel.png" alt="Alternate Text" width="50" /></a>
+        </div>
+        <hr />
+        <div class="col-lg-12">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Name</th>
+                        <th scope="col">Surname</th>
+                        <th scope="col">Roles</th>
+                        <th scope="col">Email</th>
+                        <th scope="col">Phone</th>
+                        <th scope="col">Gender</th>
+                        <th scope="col"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @{
+                        int i = 0;
+                    }
+                    @foreach (var item in Model.CustomUsers)
+                    {
+                        i++;
+                        <tr>
+                            <th scope="row">@i</th>
+                            <td>@item.Name</td>
+                            <td>@item.Surname</td>
+                            <td>@Model.UserRoles.FirstOrDefault(ur=>ur.Key==item.Id).Value</td>
+                            <td>@item.Email</td>
+                            <td>@item.Phone</td>
+                            <td>@item.Gender</td>
+                            <td>
+                                <a  asp-controller="Users" asp-action="userupdate" asp-route-id="@item.Id" class="btn btn-success">Update</a>
+                                <a  asp-controller="Users" asp-action="Delete" asp-route-id="@item.Id"  class="btn btn-danger">Delete</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+            <nav style="overflow: auto;" aria-label="...">
+                <ul class="pagination">
+                    <li class="page-item @(Model.Page == 1 ? "disabled" : "")">
+                        <a class="page-link pageItemCount"  asp-controller="Users" asp-action="users" asp-route-page="@(Model.Page - 1)" asp-route-itemCount="@Model.ItemCount">Previous</a>
+                    </li>
+                    @for (int b = 1; b <= Model.PageCount; b++)
+                    {
+                        <li class="page-item @(Model.Page == b ? "active" : "")" aria-current="page">
+                            <a class="page-link pageItemCount" asp-controller="users" asp-action="users" asp-route-page="@b" asp-route-itemCount="@Model.ItemCount">@b</a>
+                        </li>
+                    }
+                    <li class="page-item @(Model.Page == Model.PageCount ? "disabled" : "")">
+                        <a class="page-link pageItemCount" asp-controller="users" asp-action="users" asp-route-page="@(Model.Page + 1)" asp-route-itemCount="@Model.ItemCount">Next</a>
+                    </li>
+                </ul>
+            </nav>
+        </div>
+    </div>
+</div>

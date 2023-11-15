@@ -1,0 +1,42 @@
+﻿@using Microsoft.AspNetCore.Identity;
+@model List<IdentityRole>
+@{
+    ViewData["Title"] = "Roles";
+    Layout = "~/Areas/admin/Views/Shared/_Layout.cshtml";
+
+}
+
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12 mb-5">
+            <a  asp-controller="users" asp-action="rolecreate" class="btn btn-primary">Create</a>
+        </div>
+        <hr />
+        <div class="col-lg-12">
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Name</th>
+                        <th scope="col"></th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @{int i = 0; }
+                    @foreach (var item in Model)
+                    {
+                        i++;
+                        <tr>
+                            <th scope="row">@i</th>
+                            <td>@item.Name</td>
+                            <td>
+                                <a  asp-controller="Users" asp-action="roleupdate" asp-route-id="@item.Id" class="btn btn-success">Update</a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

@@ -1,0 +1,4 @@
+﻿@model List<Checkout>
+
+@Model.Where(q => q.isTrue == false).Count()
+

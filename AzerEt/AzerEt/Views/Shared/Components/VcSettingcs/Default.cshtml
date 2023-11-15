@@ -1,0 +1,118 @@
+﻿@model Setting
+@inject UserManager<IdentityUser> _userManager
+@inject SignInManager<IdentityUser> _signInManager
+<div id="topbar" class="d-flex align-items-center fixed-top">
+    <div class="container d-flex justify-content-center justify-content-md-between">
+
+        <div class="contact-info    align-items-center">
+          <div class="d-flex mt-2">
+               
+                    <i class="bi bi-whatsapp d-flex align-items-center"><span><a style="color:white" href="https://wa.me/@Model.Phone">@Model.Phone</a></span></i>
+
+
+
+                <i class="bi bi-phone d-flex align-items-center ms-4"><span><a style="color:white" href="tel:@Model.Phone">@Model.Phone</a></span></i>
+
+
+        
+          </div>
+            <div clas="col-lg-4 col-sm-6  col-6">
+                <i class="bi bi-clock d-flex align-items-center  mb-2 ms-4">
+                    <span class="ozelsaat" style="font-size: 13px;">@Model.OpeninTime</span>
+                </i>
+
+            </div>
+
+         
+        </div>
+
+
+    </div>
+</div>
+<style>
+    @@media only screen and (max-width: 720px) {
+        .ozelsaat {
+            font-size: 11px!important;
+        }
+    }
+
+    @@media only screen and (min-width: 720px) {
+        .contact-info {
+            display:flex!important;
+        }
+    }
+
+    @@media only screen and (min-width: 720px) {
+        .bi-clock {
+            margin-top: 15px!important;
+        }
+    }
+
+
+</style>
+
+<!-- ======= Header ======= -->
+<header id="header" class="fixed-top d-flex align-items-cente">
+    <div class="container-fluid container-xl d-flex align-items-center justify-content-lg-between">
+
+
+        <h1 class="logo me-auto me-lg-0"><a asp-controller="home" asp-action="index"><img style="max-height: 60px;" src="~/assets/img/logoo.jpeg.png" /></a></h1>
+        <!-- Uncomment below if you prefer to use an image logo -->
+        <!-- <a href="index.html" class="logo me-auto me-lg-0"><img src="assets/img/logo.png" alt="" class="img-fluid"></a>-->
+
+        <nav id="navbar" class="navbar order-last order-lg-0">
+            <ul>
+                <li><a class="nav-link scrollto active" href="#hero">Əsas</a></li>
+                <li><a class="nav-link scrollto" href="#about">Haqqımızda</a></li>
+                <li><a class="nav-link scrollto" href="#menu">Menyu</a></li>
+                <li><a class="nav-link scrollto" href="#specials">Xüsusi</a></li>
+                <!-- <li><a class="nav-link scrollto" href="#events">Events</a></li> -->
+                <!-- <li><a class="nav-link scrollto" href="#chefs">Chefs</a></li> -->
+                <li><a class="nav-link scrollto" href="#gallery">Qalereya</a></li>
+                <li><a class="nav-link scrollto" href="#chefs">Şeflər</a></li>
+
+                <!-- <li class="dropdown"><a href="#"><span>Drop Down</span> <i class="bi bi-chevron-down"></i></a>
+                  <ul>
+                    <li><a href="#">Drop Down 1</a></li>
+                    <li class="dropdown"><a href="#"><span>Deep Drop Down</span> <i class="bi bi-chevron-right"></i></a>
+                      <ul>
+                        <li><a href="#">Deep Drop Down 1</a></li>
+                        <li><a href="#">Deep Drop Down 2</a></li>
+                        <li><a href="#">Deep Drop Down 3</a></li>
+                        <li><a href="#">Deep Drop Down 4</a></li>
+                        <li><a href="#">Deep Drop Down 5</a></li>
+                      </ul>
+                    </li>
+                    <li><a href="#">Drop Down 2</a></li>
+                    <li><a href="#">Drop Down 3</a></li>
+                    <li><a href="#">Drop Down 4</a></li>
+                  </ul>
+                </li> -->
+                <li><a class="nav-link scrollto" href="#contact">Əlaqə</a></li>
+
+            </ul>
+            <i class="bi bi-list mobile-nav-toggle"></i>
+
+        </nav><!-- .navbar -->
+        @await Component.InvokeAsync("VcChatMini")
+
+        @if (_signInManager.IsSignedIn(User))
+        {
+            <a asp-controller="home" asp-route-userId="@_userManager.GetUserId(User)" asp-action="UserDetails" class="nav-link book-a-table-btn scrollto  d-lg-flex">@_userManager.GetUserName(User)</a>
+            <a asp-action="Logout" asp-controller="account" class="nav-link book-a-table-btn scrollto giris d-lg-flex">
+                <span> </span> <i style="font-size: 17px; margin-left: 5px;" class="cixis fas fa-sign-in-alt"></i>
+            </a>
+        }
+
+        else
+        {
+            <a asp-action="login" asp-controller="account" class="nav-link book-a-table-btn scrollto giris  d-lg-flex">
+                <span>Giriş </span> <i style="font-size: 17px; margin-left: 5px;" class="fas fa-sign-in-alt"></i>
+            </a>
+        }
+
+        <a asp-action="cart" asp-route-id="@_userManager.GetUserId(User)" asp-controller="Home" class="nav-link book-a-table-btn scrollto sebet  d-lg-flex"><i class="fas fa-shopping-basket"> <span id="sonuc"></span></i></a>
+
+
+    </div>
+</header><!-- End Header -->

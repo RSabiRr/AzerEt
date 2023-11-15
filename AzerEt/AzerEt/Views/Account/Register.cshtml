@@ -1,0 +1,128 @@
+﻿@model VmUserRegister
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>AzerƏt</title>
+    <link rel="icon" href="~/assets/img/logoo.jpeg.png"
+          type="image/x-icon">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Signup / Registration form using Material Design - Demo by W3lessons</title>
+    <!-- CORE CSS-->
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.1/css/materialize.min.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css"
+          integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm" crossorigin="anonymous">
+    <style type="text/css">
+        html,
+        body {
+            height: 100%;
+           
+        }
+
+        html {
+            display: table;
+            margin: auto;
+        }
+
+        body {
+            display: table-cell;
+            vertical-align: middle;
+        }
+
+        .margin {
+            margin: 0 !important;
+        }
+    </style>
+
+</head>
+
+<body style=" background: url(/assets/img/hero-bg.jpg) top center;">
+
+
+    <div id="login-page" class="row">
+        <div class="col s12 z-depth-6 card-panel">
+            <form asp-controller="account" asp-action="register" method="post" class="login-form">
+                <div asp-validation-summary="All" class="text-danger"></div>
+             
+                <div class="row margin">
+                    <div class="input-field col s12">
+                        <i class="mdi-social-person-outline prefix"></i>
+                        <input asp-for="@Model.Name" id="name" type="text" class="validate" required>
+                        <label for="name" class="center-align">Ad</label>
+                    </div>
+                </div>
+
+                <div class="row margin">
+                    <div class="input-field col s12">
+                        <i class="mdi-social-person-outline prefix"></i>
+                        <input asp-for="@Model.Surname" id="name" type="text" class="validate" required>
+                        <label for="name" class="center-align">Soyad</label>
+                    </div>
+                </div>
+               
+                <div class="row margin">
+                    <div class="input-field col s12">
+                        <i class="mdi-communication-email prefix"></i>
+                        <input asp-for="@Model.Email" id="email" type="email" class="validate" required>
+                        <label for="email" class="center-align">Email</label>
+                    </div>
+                </div>
+                <div class="row margin">
+                    <div style="margin-bottom: 15px;" class="input-field col s12">
+                        <i class="mdi-social-person-outline prefix"></i>
+                        <input asp-for="@Model.Gender" id="username" type="radio" name="gender" value="Kişi" class="validate" required>
+                        <label for="username" class="center-align">Kişi</label>
+                        <input asp-for="@Model.Gender" id="formen" type="radio" name="gender" value="Qadın" class="validate" required>
+                        <label for="formen" class="center-align">Qadın</label>
+                    </div>
+                </div>
+                <div class="row margin">
+                    <div class="input-field col s12">
+                        <i style="    font-size: 23px; line-height: 57px;" class="mdi-phone-lock-outline prefix"><i class="fas fa-phone"></i></i>
+                        <input asp-for="@Model.Phone" id="phone" type="number" class="validate" required>
+                        <label for="phone">Telefon</label>
+                    </div>
+                </div>
+                <div class="row margin">
+                    <div class="input-field col s12">
+                        <i class="mdi-action-lock-outline prefix"></i>
+                        <input asp-for="@Model.Password" id="password" type="password" class="validate " required>
+                        <label for="password">Şifrə</label>
+                    </div>
+                </div>
+                <div class="row margin">
+                    <div class="input-field col s12">
+                        <i class="mdi-action-lock-outline prefix"></i>
+                        <input asp-for="@Model.RepaetPassword" id="password-again" type="password" required>
+                        <label  for="password-again">Təkrar Şifrə</label>
+                    </div>
+                </div>
+                <div class="row">
+                    <div class="input-field col s12">
+                        <button style=" background: #cda45e;" type="submit">
+                            <a style=" color: white;background: #cda45e;height: 25px;" class="waves-effect  col s12">Qeydiyyat</a>
+                        </button>
+                      
+                    </div>
+                    <div class="input-field col s12">
+                        <p class="margin center medium-small sign-up">Artıq bir hesabınız var? <a style="color:#cda45e" asp-action="login" asp-controller="Account">Giriş</a></p>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <!--materialize js-->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/materialize/0.97.1/js/materialize.min.js"></script>
+
+
+</body>
+
+</html>

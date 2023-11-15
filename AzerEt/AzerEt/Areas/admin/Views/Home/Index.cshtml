@@ -1,0 +1,67 @@
+﻿@model VmHome
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Areas/admin/Views/Shared/_Layout.cshtml";
+}
+
+<main>
+    <div class="container">
+        <div class="row mt-5">
+            <div style="text-align: center; background: rebeccapurple; color: white; padding: 19px;" class="col-lg-3">
+                <p>Expected products</p>
+                @Model.Checkouts.Where(q => q.isTrue == false).Count()
+            </div>
+            <div style="text-align: center; background: #99333b; color: white; padding: 19px;" class="col-lg-3">
+                <p>Approved products</p>
+                @Model.Checkouts.Where(q => q.isTrue == true).Count()
+            </div>
+            <div style="text-align: center; background: #334599; color: white; padding: 19px;" class="col-lg-3">
+                <p>Users </p>
+                @Model.CustomUserss.Count()
+            </div>
+            <div style="text-align: center; background: #609933; color: white; padding: 19px; " class="col-lg-3">
+                <p>Contacts</p>
+                @Model.Contactss.Count()
+            </div>
+
+
+            <div style="text-align: center; background: #609933; color: white; padding: 19px; " class="col-lg-3">
+                <p>Galleries</p>
+                @Model.Galleries.Count()
+            </div>
+            <div style="text-align: center; background: #334599; color: white; padding: 19px; " class="col-lg-3">
+                <p> Specials</p>
+                @Model.Specials.Count()
+            </div>
+
+            <div style="text-align: center; background: #99333b; color: white; padding: 19px;" class="col-lg-3">
+                <p>Cheifs</p>
+                 @Model.Cheifs.Count() 
+            </div>
+            <div style="text-align: center; background: rebeccapurple; color: white; padding: 19px;" class="col-lg-3">
+                <p>Whyus</p>
+                @Model.Whyus.Count()
+            </div>
+
+        </div>
+    </div>
+</main>
+<script>
+    var a = document.getElementById("foralert").textContent;
+    console.log(a);
+    window.setTimeout(
+
+        function () {
+            const audio = new Audio();
+            audio.src = "../music/message.mp3";
+            location.reload();
+            if (a > 0) {
+               
+                audio.play();
+
+                alert("Diqqət! yeni sifariş var!")
+
+            }
+        },
+        10000);
+</script>

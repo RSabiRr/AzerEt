@@ -1,0 +1,63 @@
+body {
+    background: #ddddb6;
+}
+
+.meess {
+    background-image: url("walper.jpg");
+    margin-top: 30px !important;
+    border-radius: 10px;
+    position: relative;
+    letter-spacing: 2px;
+}
+
+    .meess .name {
+        font-family: 'Mochiy Pop P One', sans-serif;
+        font-size: 20px;
+        top: 10px;
+        text-align: center;
+        text-transform: uppercase;
+        left: 330px;
+    }
+
+
+
+.message {
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    height: 520px;
+    display: flex;
+    /*justify-content: end;*/
+    justify-content: flex-start;
+    flex-direction: column;
+    overflow: auto;
+}
+
+    .message .sender {
+        padding: 15px;
+        background: #5d835f;
+        border-radius: 20px;
+        border-top-right-radius: unset;
+        display: inline-block;
+        width: 45%;
+        margin-bottom: 5px;
+        align-self: end;
+    }
+
+    .message .reciver {
+        padding: 15px;
+        background: #999595;
+        border-radius: 20px;
+        border-top-left-radius: unset;
+        display: inline-block;
+        width: 45%;
+        margin-bottom: 5px;
+    }
+
+.typing {
+    margin-top: 6px;
+    margin-bottom: -26px;
+    color: white;
+    font-size: 15px;
+    font-weight: 800;
+}

@@ -1,0 +1,71 @@
+﻿
+
+@model CustomUser
+@{
+    ViewData["Title"] = "UserUpdate";
+    Layout = "~/Areas/admin/Views/Shared/_Layout.cshtml";
+
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-6">
+            <form asp-controller="users" asp-action="userupdate" method="post">
+                <div asp-validation-summary="All" class="text-danger"></div>
+                <div class="mb-3">
+                    <label asp-for="@Model.Name" class="form-label">Name</label>
+                    <input class="form-control" asp-for="@Model.Name">
+                    <span asp-validation-for="@Model.Name" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="@Model.Surname" class="form-label">@Model.Surname</label>
+                    <input class="form-control" asp-for="@Model.Surname">
+                    <span asp-validation-for="@Model.Surname" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="@Model.UserName" class="form-label">UserName</label>
+                    <input class="form-control" asp-for="@Model.UserName">
+                    <span asp-validation-for="@Model.UserName" class="text-danger"></span>
+                </div>
+
+                <div class="mb-3">
+                    <label asp-for="@Model.Email" class="form-label">Email</label>
+                    <input class="form-control" asp-for="@Model.Email">
+                    <span asp-validation-for="@Model.Email" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="@Model.Phone" class="form-label">Phone</label>
+                    <input class="form-control" asp-for="@Model.Phone">
+                    <span asp-validation-for="@Model.Phone" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="@Model.Gender" class="form-label">Address</label>
+                    <input class="form-control" asp-for="@Model.Gender">
+                    <span asp-validation-for="@Model.Gender" class="text-danger"></span>
+                </div>
+                <div hidden class="mb-3">
+                    <label asp-for="@Model.Wishlists" class="form-label">Wislist</label>
+                    <input class="form-control" asp-for="@Model.Wishlists">
+                    <span asp-validation-for="@Model.Wishlists" class="text-danger"></span>
+                </div>
+                <div hidden class="mb-3">
+                    <label asp-for="@Model.Checkouts" class="form-label">Checkout</label>
+                    <input class="form-control" asp-for="@Model.Checkouts">
+                    <span asp-validation-for="@Model.Checkouts" class="text-danger"></span>
+                </div>
+                <div class="mb-3">
+                    <label asp-for="@Model.RoleId" class="form-label">Role</label>
+                    <select class="form-control" asp-for="@Model.RoleId" asp-items="@(new SelectList(ViewBag.Roles, "Id", "Name"))">
+                        <option selected disabled>Select role</option>
+                    </select>
+                    <span asp-validation-for="@Model.RoleId" class="text-danger"></span>
+                </div>
+                <input asp-for="@Model.Id" hidden />
+                <button type="submit" class="btn btn-primary">Update</button>
+            </form>
+        </div>
+    </div>
+</div>
+

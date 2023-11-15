@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>
+    </EncryptedPassword>
+    <History>True|2023-11-13T15:19:31.2406800Z;False|2023-11-13T19:18:59.1079788+04:00;True|2023-11-13T19:12:36.4675702+04:00;True|2023-11-13T19:05:48.2830190+04:00;True|2023-11-13T18:58:58.6207266+04:00;True|2023-11-13T18:20:28.6144616+04:00;False|2023-11-13T18:19:46.7514292+04:00;False|2023-11-13T18:18:43.2998949+04:00;True|2023-11-13T18:01:24.5121995+04:00;True|2023-11-13T17:13:09.5143572+04:00;False|2023-11-13T17:12:11.5978870+04:00;True|2023-11-13T02:03:13.5230268+04:00;True|2023-11-09T16:24:14.7189685+04:00;True|2023-11-05T22:31:07.3934008+04:00;True|2023-11-05T21:16:41.8657204+04:00;True|2023-11-05T21:09:48.5145640+04:00;True|2023-11-05T14:44:39.0143136+04:00;True|2023-11-05T14:37:14.3300361+04:00;True|2023-11-04T21:46:22.0108839+04:00;True|2023-11-04T21:04:35.6655345+04:00;True|2023-11-04T20:32:15.3223939+04:00;True|2023-11-04T20:15:47.1479194+04:00;</History>
+    <LastFailureDetails />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="AzerEtCS">
+      <Value>Data Source=SQL5110.site4now.net%3bInitial Catalog=db_aa1029_azeret%3bUser Id=db_aa1029_azeret_admin%3bPassword=qorod789</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+  <ItemGroup>
+    <EFMigrations Include="AzerEt.Data.AppDbContext">
+      <Value>Data Source=SQL5110.site4now.net%3bInitial Catalog=db_aa1029_azeret%3bUser Id=db_aa1029_azeret_admin%3bPassword=qorod789</Value>
+    </EFMigrations>
+  </ItemGroup>
+</Project>

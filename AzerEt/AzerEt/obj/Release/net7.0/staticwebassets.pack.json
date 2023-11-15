@@ -1,0 +1,3029 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\obj\\Release\\net7.0\\scopedcss\\projectbundle\\AzerEt.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AzerEt.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Area\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\css\\style.css",
+      "PackagePath": "staticwebassets\\Area\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\img\\testimonial-1.jpg",
+      "PackagePath": "staticwebassets\\Area\\img\\testimonial-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\img\\testimonial-2.jpg",
+      "PackagePath": "staticwebassets\\Area\\img\\testimonial-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\img\\user.jpg",
+      "PackagePath": "staticwebassets\\Area\\img\\user.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\js\\main.js",
+      "PackagePath": "staticwebassets\\Area\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\lib\\chart\\chart.min.js",
+      "PackagePath": "staticwebassets\\Area\\lib\\chart\\chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\lib\\easing\\easing.js",
+      "PackagePath": "staticwebassets\\Area\\lib\\easing\\easing.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\lib\\easing\\easing.min.js",
+      "PackagePath": "staticwebassets\\Area\\lib\\easing\\easing.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\lib\\owlcarousel\\LICENSE",
+      "PackagePath": "staticwebassets\\Area\\lib\\owlcarousel"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\lib\\owlcarousel\\assets\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\Area\\lib\\owlcarousel\\assets\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\lib\\owlcarousel\\assets\\owl.carousel.css",
+      "PackagePath": "staticwebassets\\Area\\lib\\owlcarousel\\assets\\owl.carousel.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\lib\\owlcarousel\\assets\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\Area\\lib\\owlcarousel\\assets\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\lib\\owlcarousel\\assets\\owl.theme.default.css",
+      "PackagePath": "staticwebassets\\Area\\lib\\owlcarousel\\assets\\owl.theme.default.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\lib\\owlcarousel\\assets\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\Area\\lib\\owlcarousel\\assets\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\lib\\owlcarousel\\assets\\owl.theme.green.css",
+      "PackagePath": "staticwebassets\\Area\\lib\\owlcarousel\\assets\\owl.theme.green.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\lib\\owlcarousel\\assets\\owl.theme.green.min.css",
+      "PackagePath": "staticwebassets\\Area\\lib\\owlcarousel\\assets\\owl.theme.green.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\lib\\owlcarousel\\assets\\owl.video.play.png",
+      "PackagePath": "staticwebassets\\Area\\lib\\owlcarousel\\assets\\owl.video.play.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\lib\\owlcarousel\\owl.carousel.js",
+      "PackagePath": "staticwebassets\\Area\\lib\\owlcarousel\\owl.carousel.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\lib\\owlcarousel\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\Area\\lib\\owlcarousel\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css",
+      "PackagePath": "staticwebassets\\Area\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css",
+      "PackagePath": "staticwebassets\\Area\\lib\\tempusdominus\\css\\tempusdominus-bootstrap-4.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\lib\\tempusdominus\\js\\moment-timezone.min.js",
+      "PackagePath": "staticwebassets\\Area\\lib\\tempusdominus\\js\\moment-timezone.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\lib\\tempusdominus\\js\\moment.min.js",
+      "PackagePath": "staticwebassets\\Area\\lib\\tempusdominus\\js\\moment.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js",
+      "PackagePath": "staticwebassets\\Area\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js",
+      "PackagePath": "staticwebassets\\Area\\lib\\tempusdominus\\js\\tempusdominus-bootstrap-4.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\lib\\waypoints\\links.php",
+      "PackagePath": "staticwebassets\\Area\\lib\\waypoints\\links.php"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\lib\\waypoints\\waypoints.min.js",
+      "PackagePath": "staticwebassets\\Area\\lib\\waypoints\\waypoints.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_accordion.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_accordion.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_alert.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_badge.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_button-group.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_card.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_carousel.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_close.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_containers.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_containers.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_forms.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_grid.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_helpers.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_helpers.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_images.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_modal.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_nav.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_offcanvas.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_popover.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_progress.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_reboot.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_root.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_spinners.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_tables.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_toasts.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_transitions.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_type.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\bootstrap-utilities.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\bootstrap-utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\forms\\_form-check.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\forms\\_form-check.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\forms\\_form-text.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\forms\\_form-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\forms\\_labels.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\forms\\_validation.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\helpers\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\helpers\\_colored-links.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\helpers\\_position.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\helpers\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\helpers\\_ratio.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\helpers\\_ratio.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\helpers\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\helpers\\_text-truncation.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\helpers\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\mixins\\_color-scheme.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\mixins\\_container.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\mixins\\_container.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\mixins\\_utilities.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\mixins\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\mixins\\_visually-hidden.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\utilities\\_api.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\utilities\\_api.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Area\\scss\\bootstrap\\scss\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\Area\\scss\\bootstrap\\scss\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\css\\main.css",
+      "PackagePath": "staticwebassets\\Login\\css\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\css\\util.css",
+      "PackagePath": "staticwebassets\\Login\\css\\util.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\HELP-US-OUT.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\animated.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\animated.less"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\bordered-pulled.less"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\core.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\core.less"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\fixed-width.less"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\font-awesome.less"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\icons.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\icons.less"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\larger.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\larger.less"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\list.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\list.less"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\mixins.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\mixins.less"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\path.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\path.less"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\rotated-flipped.less"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\screen-reader.less"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\stacked.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\stacked.less"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\less\\variables.less",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\less\\variables.less"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_animated.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_bordered-pulled.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_core.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_core.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_fixed-width.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_larger.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_list.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_list.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_path.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_path.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_rotated-flipped.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_stacked.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss",
+      "PackagePath": "staticwebassets\\Login\\fonts\\font-awesome-4.7.0\\scss\\font-awesome.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-Black.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-Bold.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-Italic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-Light.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-Medium.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-Regular.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-Thin.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\montserrat\\Montserrat-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\Montserrat-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\montserrat\\OFL.txt",
+      "PackagePath": "staticwebassets\\Login\\fonts\\montserrat\\OFL.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\poppins\\Poppins-Black.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\poppins\\Poppins-BlackItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-BlackItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\poppins\\Poppins-Bold.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\poppins\\Poppins-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\poppins\\Poppins-ExtraBold.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-ExtraBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-ExtraBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\poppins\\Poppins-ExtraLight.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-ExtraLight.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-ExtraLightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\poppins\\Poppins-Italic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\poppins\\Poppins-Light.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\poppins\\Poppins-LightItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-LightItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\poppins\\Poppins-Medium.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\poppins\\Poppins-MediumItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-MediumItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\poppins\\Poppins-Regular.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\poppins\\Poppins-SemiBold.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-SemiBold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-SemiBoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\poppins\\Poppins-Thin.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-Thin.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\fonts\\poppins\\Poppins-ThinItalic.ttf",
+      "PackagePath": "staticwebassets\\Login\\fonts\\poppins\\Poppins-ThinItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\images\\icons\\favicon.ico",
+      "PackagePath": "staticwebassets\\Login\\images\\icons\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\images\\img-01.png",
+      "PackagePath": "staticwebassets\\Login\\images\\img-01.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\index.html",
+      "PackagePath": "staticwebassets\\Login\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\js\\main.js",
+      "PackagePath": "staticwebassets\\Login\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\vendor\\animate\\animate.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\animate\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\vendor\\bootstrap\\js\\popper.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\js\\popper.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\vendor\\bootstrap\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\vendor\\bootstrap\\js\\tooltip.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\bootstrap\\js\\tooltip.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\vendor\\css-hamburgers\\hamburgers.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\css-hamburgers\\hamburgers.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\vendor\\css-hamburgers\\hamburgers.min.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\css-hamburgers\\hamburgers.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\vendor\\jquery\\jquery-3.2.1.min.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\jquery\\jquery-3.2.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\vendor\\select2\\select2.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\select2\\select2.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\vendor\\select2\\select2.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\select2\\select2.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\vendor\\select2\\select2.min.css",
+      "PackagePath": "staticwebassets\\Login\\vendor\\select2\\select2.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\vendor\\select2\\select2.min.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\select2\\select2.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\Login\\vendor\\tilt\\tilt.jquery.min.js",
+      "PackagePath": "staticwebassets\\Login\\vendor\\tilt\\tilt.jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\UploadsCheifs\\c34c5996-a712-48e2-9158-59c3ad4d4854-events-bg.jpg",
+      "PackagePath": "staticwebassets\\UploadsCheifs\\c34c5996-a712-48e2-9158-59c3ad4d4854-events-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\UploadsGallery\\3aa8a991-2420-4f78-8a7a-6bb6f4dfb3ee-16481205052419220287793123584900.jpg",
+      "PackagePath": "staticwebassets\\UploadsGallery\\3aa8a991-2420-4f78-8a7a-6bb6f4dfb3ee-16481205052419220287793123584900.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\UploadsGallery\\5c7aca68-8ad8-4e37-bd36-b450b9560cf0-2022-03-24.jpg",
+      "PackagePath": "staticwebassets\\UploadsGallery\\5c7aca68-8ad8-4e37-bd36-b450b9560cf0-2022-03-24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\UploadsGallery\\8e3b2e66-ecc3-407e-8429-f7a38471fd25-20220324_150050.jpg",
+      "PackagePath": "staticwebassets\\UploadsGallery\\8e3b2e66-ecc3-407e-8429-f7a38471fd25-20220324_150050.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\UploadsGallery\\9dc544d1-5182-48cc-9c77-9c3e0c70449a-Image 3.jpg",
+      "PackagePath": "staticwebassets\\UploadsGallery\\9dc544d1-5182-48cc-9c77-9c3e0c70449a-Image 3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\UploadsGallery\\a13f3481-47ee-4e0f-869b-ac9a8ad6d17e-20220324_150035.jpg",
+      "PackagePath": "staticwebassets\\UploadsGallery\\a13f3481-47ee-4e0f-869b-ac9a8ad6d17e-20220324_150035.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\UploadsGallery\\c8be8c40-ed8d-498a-86fb-7d78fa491847-Image 4.jpg",
+      "PackagePath": "staticwebassets\\UploadsGallery\\c8be8c40-ed8d-498a-86fb-7d78fa491847-Image 4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\UploadsGallery\\e171ebc5-a45a-4dde-b35b-1cff99aedbb4-20220324_150058.jpg",
+      "PackagePath": "staticwebassets\\UploadsGallery\\e171ebc5-a45a-4dde-b35b-1cff99aedbb4-20220324_150058.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\UploadsGallery\\e8ac5609-bf10-4201-8cd1-ef4821674f2e-Image 4.jpg",
+      "PackagePath": "staticwebassets\\UploadsGallery\\e8ac5609-bf10-4201-8cd1-ef4821674f2e-Image 4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\UploadsGallery\\fddd6050-056b-4260-a067-cdeab3e3a526-20220324_150222.jpg",
+      "PackagePath": "staticwebassets\\UploadsGallery\\fddd6050-056b-4260-a067-cdeab3e3a526-20220324_150222.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\UploadsImage\\0c10981a-45cf-43c2-a044-dbaf1a1d2d23-maxresdefault.jpg",
+      "PackagePath": "staticwebassets\\UploadsImage\\0c10981a-45cf-43c2-a044-dbaf1a1d2d23-maxresdefault.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\UploadsImage\\21fe8790-d668-48b6-a312-2ac164b97a83-9ba7ded8-135c-11ee-971a-ae655c75d4f6_screenshot_2023_06_25_at_17.31.24.jpg",
+      "PackagePath": "staticwebassets\\UploadsImage\\21fe8790-d668-48b6-a312-2ac164b97a83-9ba7ded8-135c-11ee-971a-ae655c75d4f6_screenshot_2023_06_25_at_17.31.24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\UploadsImage\\3129dbb7-cefb-4c6b-bf59-4c53ed49631d-151be123-83fc-479c-acdd-db45bc427731.jpeg",
+      "PackagePath": "staticwebassets\\UploadsImage\\3129dbb7-cefb-4c6b-bf59-4c53ed49631d-151be123-83fc-479c-acdd-db45bc427731.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\UploadsImage\\409e6288-3a46-4b1a-a112-483b2aa4b1de-1eb7a486-86bb-11ed-9d58-da5276d3a4df_img_20221226_103011_154.jpg",
+      "PackagePath": "staticwebassets\\UploadsImage\\409e6288-3a46-4b1a-a112-483b2aa4b1de-1eb7a486-86bb-11ed-9d58-da5276d3a4df_img_20221226_103011_154.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\UploadsImage\\457c0959-405d-47a3-9e67-64edd01b8d6e-Image 11.jpg",
+      "PackagePath": "staticwebassets\\UploadsImage\\457c0959-405d-47a3-9e67-64edd01b8d6e-Image 11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\UploadsImage\\4fc39a44-6cbf-4420-98bc-426c5fb61bbb-c95a3c7c-135c-11ee-ae54-5a5ff70e42fb_img_20230625_wa0004.jpg",
+      "PackagePath": "staticwebassets\\UploadsImage\\4fc39a44-6cbf-4420-98bc-426c5fb61bbb-c95a3c7c-135c-11ee-ae54-5a5ff70e42fb_img_20230625_wa0004.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\UploadsImage\\58d9f3eb-b8e5-4984-8cb8-c64d5ba97287-Image 11.jpg",
+      "PackagePath": "staticwebassets\\UploadsImage\\58d9f3eb-b8e5-4984-8cb8-c64d5ba97287-Image 11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\UploadsImage\\59218938-b8d4-4a2a-94f3-83b2676cdba5-maxresdefault.jpg",
+      "PackagePath": "staticwebassets\\UploadsImage\\59218938-b8d4-4a2a-94f3-83b2676cdba5-maxresdefault.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\UploadsImage\\65447356-d779-4327-91c8-a595476992d1-9ba7ded8-135c-11ee-971a-ae655c75d4f6_screenshot_2023_06_25_at_17.31.24.jpg",
+      "PackagePath": "staticwebassets\\UploadsImage\\65447356-d779-4327-91c8-a595476992d1-9ba7ded8-135c-11ee-971a-ae655c75d4f6_screenshot_2023_06_25_at_17.31.24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\UploadsImage\\70783fd5-3b0f-414c-8cc3-f611d9aa5d2c-ebed88c0-135c-11ee-862d-2e2f987a3f0b_screenshot_2023_06_25_at_17.33.45.jpg",
+      "PackagePath": "staticwebassets\\UploadsImage\\70783fd5-3b0f-414c-8cc3-f611d9aa5d2c-ebed88c0-135c-11ee-862d-2e2f987a3f0b_screenshot_2023_06_25_at_17.33.45.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\UploadsImage\\9571e213-253b-4c81-aafc-112aaaa98ee7-ebed88c0-135c-11ee-862d-2e2f987a3f0b_screenshot_2023_06_25_at_17.33.45 (1).jpg",
+      "PackagePath": "staticwebassets\\UploadsImage\\9571e213-253b-4c81-aafc-112aaaa98ee7-ebed88c0-135c-11ee-862d-2e2f987a3f0b_screenshot_2023_06_25_at_17.33.45 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\UploadsImage\\ef6e0c6a-ff28-40be-b2ab-4528d9a3512a-c95a3c7c-135c-11ee-ae54-5a5ff70e42fb_img_20230625_wa0004.jpg",
+      "PackagePath": "staticwebassets\\UploadsImage\\ef6e0c6a-ff28-40be-b2ab-4528d9a3512a-c95a3c7c-135c-11ee-ae54-5a5ff70e42fb_img_20230625_wa0004.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\UploadsImage\\f1b609ed-23a6-4071-a5b9-19b7f549e243-maxresdefault.jpg",
+      "PackagePath": "staticwebassets\\UploadsImage\\f1b609ed-23a6-4071-a5b9-19b7f549e243-maxresdefault.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\UploadsSetting\\526c2467-2fa2-4f49-b7e2-1617cc8a453e-about.jpg",
+      "PackagePath": "staticwebassets\\UploadsSetting\\526c2467-2fa2-4f49-b7e2-1617cc8a453e-about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\UploadsSetting\\cb25aecb-230a-4f81-9beb-0fd95d3c735a-resize_image.png",
+      "PackagePath": "staticwebassets\\UploadsSetting\\cb25aecb-230a-4f81-9beb-0fd95d3c735a-resize_image.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\UploadsSpecials\\12a5d248-d8a9-45ae-a808-1f4e8eef36f2-ebed88c0-135c-11ee-862d-2e2f987a3f0b_screenshot_2023_06_25_at_17.33.45.jpg",
+      "PackagePath": "staticwebassets\\UploadsSpecials\\12a5d248-d8a9-45ae-a808-1f4e8eef36f2-ebed88c0-135c-11ee-862d-2e2f987a3f0b_screenshot_2023_06_25_at_17.33.45.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\UploadsSpecials\\32bede60-fb0d-457f-a1bf-13e69001d192-9ba7ded8-135c-11ee-971a-ae655c75d4f6_screenshot_2023_06_25_at_17.31.24.jpg",
+      "PackagePath": "staticwebassets\\UploadsSpecials\\32bede60-fb0d-457f-a1bf-13e69001d192-9ba7ded8-135c-11ee-971a-ae655c75d4f6_screenshot_2023_06_25_at_17.31.24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\UploadsSpecials\\3472ab79-0814-4048-bed5-7568ab5344ba-c95a3c7c-135c-11ee-ae54-5a5ff70e42fb_img_20230625_wa0004.jpg",
+      "PackagePath": "staticwebassets\\UploadsSpecials\\3472ab79-0814-4048-bed5-7568ab5344ba-c95a3c7c-135c-11ee-ae54-5a5ff70e42fb_img_20230625_wa0004.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\UploadsSpecials\\49bf1dff-d640-4b90-b1c3-a379c8e3cf3d-1eb7a486-86bb-11ed-9d58-da5276d3a4df_img_20221226_103011_154.jpg",
+      "PackagePath": "staticwebassets\\UploadsSpecials\\49bf1dff-d640-4b90-b1c3-a379c8e3cf3d-1eb7a486-86bb-11ed-9d58-da5276d3a4df_img_20221226_103011_154.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\UploadsSpecials\\c8cdbfc8-518f-4fc8-bb2e-6a52c6963608-ebed88c0-135c-11ee-862d-2e2f987a3f0b_screenshot_2023_06_25_at_17.33.45 (1).jpg",
+      "PackagePath": "staticwebassets\\UploadsSpecials\\c8cdbfc8-518f-4fc8-bb2e-6a52c6963608-ebed88c0-135c-11ee-862d-2e2f987a3f0b_screenshot_2023_06_25_at_17.33.45 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\Contact List (5).xlsx",
+      "PackagePath": "staticwebassets\\assets\\img\\Contact List (5).xlsx"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\Users List (3).xlsx",
+      "PackagePath": "staticwebassets\\assets\\img\\Users List (3).xlsx"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\about-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\about.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\about.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\apple-touch-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\azerkabab.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\azerkabab.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\bg-meat.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\bg-meat.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\chefs\\chefs-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\chefs\\chefs-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\chefs\\chefs-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\chefs\\chefs-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\chefs\\chefs-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\chefs\\chefs-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\coca-cola.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\coca-cola.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\event-birthday.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event-birthday.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\event-custom.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event-custom.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\event-private.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\event-private.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\events-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\events-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\excel.png",
+      "PackagePath": "staticwebassets\\assets\\img\\excel.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\excel.svg",
+      "PackagePath": "staticwebassets\\assets\\img\\excel.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\gallery\\gallery-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\gallery\\gallery-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\gallery\\gallery-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\gallery\\gallery-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\gallery\\gallery-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\gallery\\gallery-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\gallery\\gallery-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\gallery\\gallery-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\gallery-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\logoo.jpeg.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logoo.jpeg.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\menu\\bread-barrel.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\bread-barrel.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\menu\\caesar.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\caesar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\menu\\cake.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\cake.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\menu\\greek-salad.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\greek-salad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\menu\\lobster-bisque.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\lobster-bisque.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\menu\\lobster-roll.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\lobster-roll.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\menu\\mozzarella.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\mozzarella.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\menu\\spinach-salad.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\spinach-salad.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\menu\\tuscan-grilled.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\tuscan-grilled.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\specials-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\specials-1.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\specials-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\specials-2.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\specials-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\specials-3.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\specials-4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\specials-4.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\specials-5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\specials-5.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\testimonials\\testimonials-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\testimonials\\testimonials-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\testimonials\\testimonials-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\testimonials\\testimonials-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\testimonials\\testimonials-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonials\\testimonials-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\img\\wpp.jpeg",
+      "PackagePath": "staticwebassets\\assets\\img\\wpp.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\js\\cart.js",
+      "PackagePath": "staticwebassets\\assets\\js\\cart.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\scss\\Readme.txt",
+      "PackagePath": "staticwebassets\\assets\\scss\\Readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\animate.css\\animate.compat.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\animate.css\\animate.compat.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\animate.css\\animate.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\animate.css\\animate.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\animate.css\\animate.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\animate.css\\animate.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\aos\\aos.cjs.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.cjs.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\aos\\aos.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\aos\\aos.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\aos\\aos.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\aos\\aos.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\aos\\aos.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\bootstrap-icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap-icons\\fonts\\bootstrap-icons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\bootstrap\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\boxicons\\css\\animations.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\animations.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\boxicons.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\boxicons\\css\\boxicons.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\boxicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\boxicons\\css\\transformations.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\css\\transformations.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.eot",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.svg",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\assets\\vendor\\boxicons\\fonts\\boxicons.woff2"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\glightbox\\css\\glightbox.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\glightbox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\glightbox\\css\\plyr.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\plyr.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\glightbox\\css\\plyr.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\css\\plyr.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\glightbox\\js\\glightbox.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\glightbox\\js\\glightbox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\isotope-layout\\isotope.pkgd.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\isotope-layout\\isotope.pkgd.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\php-email-form\\validate.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\php-email-form\\validate.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.css",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\assets\\vendor\\swiper\\swiper-bundle.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\vendor\\swiper\\swiper-bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\CHANGES.md",
+      "PackagePath": "staticwebassets\\ckeditor\\CHANGES.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\LICENSE.md",
+      "PackagePath": "staticwebassets\\ckeditor\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\README.md",
+      "PackagePath": "staticwebassets\\ckeditor\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\SECURITY.md",
+      "PackagePath": "staticwebassets\\ckeditor\\SECURITY.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\adapters\\jquery.js",
+      "PackagePath": "staticwebassets\\ckeditor\\adapters\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\bender-runner.config.json",
+      "PackagePath": "staticwebassets\\ckeditor\\bender-runner.config.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\build-config.js",
+      "PackagePath": "staticwebassets\\ckeditor\\build-config.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\ckeditor.js",
+      "PackagePath": "staticwebassets\\ckeditor\\ckeditor.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\config.js",
+      "PackagePath": "staticwebassets\\ckeditor\\config.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\contents.css",
+      "PackagePath": "staticwebassets\\ckeditor\\contents.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\af.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\az.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\bn.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\bn.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\bs.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\bs.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\da.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\de.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\el.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\en-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\en.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\eo.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\es-mx.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\es.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\et.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\fo.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\fo.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\gu.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\he.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\id.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\is.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\is.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\it.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\ka.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\ka.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\km.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\km.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\mk.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\mn.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\ms.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\ms.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\no.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\no.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\si.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\th.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\tt.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\ug.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\ckeditor\\lang\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\a11yhelp.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\af.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\az.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es-mx.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fo.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fo.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\gu.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hi.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mk.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\mn.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\tt.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\a11yhelp\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\about\\dialogs\\about.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\about\\dialogs\\about.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\about\\dialogs\\hidpi\\logo_ckeditor.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\about\\dialogs\\logo_ckeditor.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\clipboard\\dialogs\\paste.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\dialog\\dialogDefinition.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\dialog\\dialogDefinition.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\dialog\\styles\\dialog.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\dialog\\styles\\dialog.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\icons.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\icons.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\icons_hidpi.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\image\\dialogs\\image.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\image\\dialogs\\image.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\image\\images\\noimage.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\image\\images\\noimage.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\link\\dialogs\\anchor.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\link\\dialogs\\anchor.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\link\\dialogs\\link.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\link\\dialogs\\link.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\link\\images\\anchor.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\link\\images\\anchor.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\link\\images\\hidpi\\anchor.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon-rtl.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\magicline\\images\\hidpi\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\magicline\\images\\icon-rtl.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\magicline\\images\\icon.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\magicline\\images\\icon.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\pastefromgdocs\\filter\\default.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\pastefromgdocs\\filter\\default.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\pastefromlibreoffice\\filter\\default.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\pastefromlibreoffice\\filter\\default.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\pastefromword\\filter\\default.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\pastefromword\\filter\\default.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\pastetools\\filter\\common.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\pastetools\\filter\\common.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\pastetools\\filter\\image.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\pastetools\\filter\\image.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\scayt\\CHANGELOG.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\scayt\\CHANGELOG.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\scayt\\LICENSE.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\scayt\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\scayt\\README.md",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\scayt\\README.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\scayt\\dialogs\\dialog.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\scayt\\dialogs\\dialog.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\scayt\\dialogs\\options.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\scayt\\dialogs\\options.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\scayt\\dialogs\\toolbar.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\scayt\\skins\\moono-lisa\\scayt.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\scayt\\skins\\moono-lisa\\scayt.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\_translationstatus.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\af.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\af.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ar.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\az.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\az.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\bg.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ca.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cs.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\cy.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\da.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\da.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de-ch.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\de.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\el.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-au.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-au.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-ca.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-gb.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en-gb.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\en.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eo.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es-mx.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\es.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\et.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eu.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\eu.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fa.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fi.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr-ca.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\fr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\gl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\he.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\hu.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\id.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\it.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ja.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\km.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ko.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ko.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ku.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lt.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\lv.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nb.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\nl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\no.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\oc.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\oc.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt-br.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\pt.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ro.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ro.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ru.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\si.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sk.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sl.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sq.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr-latn.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr-latn.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\sv.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\th.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tt.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\tt.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\ug.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\uk.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\vi.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh-cn.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\lang\\zh.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\specialchar\\dialogs\\specialchar.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\table\\dialogs\\table.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\table\\dialogs\\table.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\tableselection\\styles\\tableselection.css",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\tableselection\\styles\\tableselection.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\tabletools\\dialogs\\tableCell.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\plugins\\widget\\images\\handle.png",
+      "PackagePath": "staticwebassets\\ckeditor\\plugins\\widget\\images\\handle.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\css\\samples.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\css\\samples.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\img\\github-top.png",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\img\\github-top.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\img\\header-bg.png",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\img\\header-bg.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\img\\header-separator.png",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\img\\header-separator.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\img\\logo.png",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\img\\logo.svg",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\img\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\img\\navigation-tip.png",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\img\\navigation-tip.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\index.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\js\\sample.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\js\\sample.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\js\\sf.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\js\\sf.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\ajax.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\ajax.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\api.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\api.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\appendto.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\appendto.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\assets\\inlineall\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\assets\\outputxhtml\\outputxhtml.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\assets\\posteddata.php",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\assets\\posteddata.php"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\assets\\sample.jpg",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\assets\\sample.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\assets\\uilanguages\\languages.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\datafiltering.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\datafiltering.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\dialog\\assets\\my_dialog.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\dialog\\dialog.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\dialog\\dialog.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\divreplace.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\divreplace.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\enterkey\\enterkey.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\enterkey\\enterkey.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\htmlwriter\\outputhtml.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\htmlwriter\\outputhtml.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\index.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\inlineall.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\inlineall.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\inlinebycode.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\inlinebycode.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\inlinetextarea.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\inlinetextarea.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\jquery.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\jquery.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\magicline\\magicline.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\magicline\\magicline.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\readonly.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\readonly.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\replacebyclass.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\replacebyclass.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\replacebycode.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\replacebycode.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\sample.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\sample.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\sample.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\sample.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\sample_posteddata.php",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\sample_posteddata.php"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\tabindex.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\tabindex.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\toolbar\\toolbar.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\toolbar\\toolbar.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\uicolor.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\uicolor.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\uilanguages.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\uilanguages.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\wysiwygarea\\fullpage.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\old\\xhtmlstyle.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\old\\xhtmlstyle.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\css\\fontello.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\font\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\font\\config.json"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.eot"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.svg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.ttf"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\font\\fontello.woff"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\index.html",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\js\\abstracttoolbarmodifier.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\js\\fulltoolbareditor.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbarmodifier.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\js\\toolbartextmodifier.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\LICENSE",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\codemirror.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\javascript.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\neo.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js",
+      "PackagePath": "staticwebassets\\ckeditor\\samples\\toolbarconfigurator\\lib\\codemirror\\show-hint.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\skins\\moono-lisa\\dialog.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\dialog.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\skins\\moono-lisa\\dialog_ie.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\dialog_ie.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\dialog_ie8.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\dialog_iequirks.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\skins\\moono-lisa\\editor.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\editor.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\skins\\moono-lisa\\editor_gecko.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\editor_gecko.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\skins\\moono-lisa\\editor_ie.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\editor_ie.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\skins\\moono-lisa\\editor_ie8.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\editor_ie8.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\editor_iequirks.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\skins\\moono-lisa\\icons.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\icons.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\icons_hidpi.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\arrow.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\close.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\close.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock-open.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\hidpi\\refresh.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\lock-open.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\lock.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\lock.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\refresh.png",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\refresh.png"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\images\\spinner.gif"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\skins\\moono-lisa\\readme.md",
+      "PackagePath": "staticwebassets\\ckeditor\\skins\\moono-lisa\\readme.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\styles.js",
+      "PackagePath": "staticwebassets\\ckeditor\\styles.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\ckeditor\\vendor\\promise.js",
+      "PackagePath": "staticwebassets\\ckeditor\\vendor\\promise.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\css\\demo.css",
+      "PackagePath": "staticwebassets\\css\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\css\\ssssss.css",
+      "PackagePath": "staticwebassets\\css\\ssssss.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\csss\\chattstyle.css",
+      "PackagePath": "staticwebassets\\csss\\chattstyle.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\csss\\walper.jpg",
+      "PackagePath": "staticwebassets\\csss\\walper.jpg"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\forms\\Readme.txt",
+      "PackagePath": "staticwebassets\\forms\\Readme.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\js\\Chat.js",
+      "PackagePath": "staticwebassets\\js\\Chat.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\js\\chattt.js",
+      "PackagePath": "staticwebassets\\js\\chattt.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js",
+      "PackagePath": "staticwebassets\\lib\\microsoft\\signalr\\dist\\browser\\signalr.min.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\minichat\\Chatmini2.js",
+      "PackagePath": "staticwebassets\\minichat\\Chatmini2.js"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\minichat\\minichat.css",
+      "PackagePath": "staticwebassets\\minichat\\minichat.css"
+    },
+    {
+      "Id": "C:\\Users\\user\\Desktop\\Azeret-Full\\AzerEt\\AzerEt\\wwwroot\\music\\message.mp3",
+      "PackagePath": "staticwebassets\\music\\message.mp3"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.AzerEt.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.AzerEt.props",
+      "PackagePath": "build\\AzerEt.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.AzerEt.props",
+      "PackagePath": "buildMultiTargeting\\AzerEt.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.AzerEt.props",
+      "PackagePath": "buildTransitive\\AzerEt.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

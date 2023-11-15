@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<sitemanifest>
+  <IisApp path="C:\Users\user\Desktop\Azeret-Full\AzerEt\AzerEt\obj\Release\net7.0\PubTmp\Out\" />
+  <dbfullsql path="C:\Users\user\Desktop\Azeret-Full\AzerEt\AzerEt\obj\Release\net7.0\PubTmp\EFSQLScripts\AzerEt.Data.AppDbContext.sql" />
+</sitemanifest>
